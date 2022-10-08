@@ -1,0 +1,15 @@
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.search-input {
+  width: 200px;
+}
+
+.search-icon {
+  width: 20px;
+  cursor: pointer;
+  padding-left: 8px;
+}

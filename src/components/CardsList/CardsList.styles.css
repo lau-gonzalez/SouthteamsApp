@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
